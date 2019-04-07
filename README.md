@@ -1,2 +1,2 @@
-# test
-test repo for git commonds dimonstration
+# C++ codes
+This is where I put my C++ practice projects.
